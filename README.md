@@ -5,7 +5,7 @@
 This repo contains the code for the [2024 HathiTrust TorchLite hackathon](https://htrc.github.io/torchlite-hackathon/) project by:
 
 - [Daniel Evans](https://danieljohnevans.github.io/)
-- [Deepanshu Malhorta](https://ischool.illinois.edu/people/deepanshu-malhotra)
+- [Deepanshu Malhorta](https://deepanshu96.github.io/deep/)
 - [Ben Lee](https://bcglee.com)
 
 ## Goals
