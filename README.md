@@ -7,6 +7,8 @@ This repo contains the code for the [2024 HathiTrust TorchLite hackathon](https:
 - [Daniel Evans](https://danieljohnevans.github.io/)
 - [Deepanshu Malhorta](https://deepanshu96.github.io/deep/)
 - [Ben Lee](https://bcglee.com)
+- [Sarah Griebel](https://griebels.github.io/)
+- [Ryan Dubnicek](https://ischool.illinois.edu/people/ryan-dubnicek)
 
 ## Goals
 
