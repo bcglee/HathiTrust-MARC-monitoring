@@ -16,6 +16,6 @@ The primary goals of this hackathon project are 1) to develop Python code for mo
 
 ## Data
 
-We are using the HathiTrust Bibliographic API: [https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/). In particular, the `lastUpdate` field in the "items" section gives "the date (YYYYMMDD) this item was ingested or last changed (because, e.g., the rights determination changed)."
+We are using the HathiTrust Bibliographic API: [https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/). In particular, we are pulling from the `974` field to get information surroudning udpates.
 
 Each API request can handle 20 items at once.
