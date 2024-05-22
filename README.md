@@ -16,6 +16,6 @@ The primary goals of this hackathon project are 1) to develop Python code for mo
 
 ## Data
 
-We are using the Hathifiles bulk download available here: [https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/hathifiles/](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/hathifiles/). The bulk file contains "\_full\_" in the filename and is updated on a monthly basis (for refernce, the [May 2024](https://www.hathitrust.org/files/hathifiles/hathi_full_20240501.txt.gz) file is 1.08 GB).
+We are using the HathiTrust Bibliographic API: [https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/). In particular, the `lastUpdate` field in the "items" section gives "the date (YYYYMMDD) this item was ingested or last changed (because, e.g., the rights determination changed)."
 
-Within Hathifiles are the MARC records of interest for this hackathon.
+Each API request can handle 20 items at once.
