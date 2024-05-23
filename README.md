@@ -16,7 +16,7 @@ The primary goals of this hackathon project are 1) to develop Python code for mo
 
 ## Data
 
-We are using the HathiTrust Bibliographic API: [https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/). In particular, we are pulling from the `974` field and the DAT field to get information surrounding udpates. We are also adding metadata from the HathiFiles. Each API request can handle 20 items at once. This results in a CSV - the next step would be to automate this process.
+We are using the HathiTrust Bibliographic API: [https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/](https://www.hathitrust.org/member-libraries/resources-for-librarians/data-resources/bibliographic-api/). In particular, we are pulling from the `974` field and the `DAT` field to get information surrounding udpates. We are also adding metadata from the HathiFiles. Each API request can handle 20 items at once. This results in a CSV - the next step would be to automate this process.
 
 ## Code
 
